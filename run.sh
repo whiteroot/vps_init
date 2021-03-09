@@ -8,6 +8,7 @@ mkdir $HOME/tmp/vim/backup
 mkdir $HOME/tmp/vim/swap
 
 ./apt_upgrade.sh
+./vnc_install.sh
 ./wp_create_db_user.sh
 ./wp_install.sh
 
